@@ -8,3 +8,12 @@ Error message: Timed out during operation: cannot acquire state change lock (hel
 
 Attempt with virsh
 https://www.linuxtechi.com/create-revert-delete-kvm-virtual-machine-snapshot-virsh-command/
+
+Command:
+virsh snapshot-create PiHole
+
+virsh snapshot-list PiHole
+
+seems cockpit had made one anyway
+
+#unbound installation
