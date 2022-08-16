@@ -17,3 +17,4 @@ virsh snapshot-list PiHole
 seems cockpit had made one anyway
 
 #unbound installation
+installed and configured and processing requests.
